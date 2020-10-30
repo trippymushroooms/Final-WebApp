@@ -7,6 +7,6 @@
 
 /* document reset */
 
-@import '/path/to/reset-css/reset.css';
+@import '~normalize.css';
 
 /* reset  */
